@@ -12,6 +12,10 @@ Fast and memory efficient library for factorization machines (FM).
 - Runs on local machine and distributed clusters.
 - Scales to datasets with billions examples and features.
 
+### Prerequisites
+
+Install Google Test in order for difacto project to compile. (Intructions here [googletest.md](https://github.com/dmlc/difacto/tree/master/googletest.md))
+
 ### Quick Start
 
 The following commands clone and build difacto, then download a sample dataset,
